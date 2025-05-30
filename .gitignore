@@ -1,4 +1,4 @@
 /node_modules
-/src/uploads
-/src/utils/logs
-/.env
+src/uploads
+src/utils/logs
+.env
